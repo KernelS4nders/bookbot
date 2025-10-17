@@ -1,2 +1,4 @@
 # bookbot
-Python Project - Book Analysis Tool (boot.dev)
+# Python Project - Book Analysis Tool (boot.dev)
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
